@@ -18,12 +18,11 @@ Additional description about the project and its features.
   - CSS Positioning `absolute`,
   - CSS Background for page aesthetic using `background-color`.
   - `header`, `h1`, `h2`,
-  -  `img`, `p`, `a`, `nav`.
+  - `img`, `p`, `a`, `nav`.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
 - GitHub Action
-
 
 ## Live Demo
 
