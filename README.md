@@ -1,24 +1,20 @@
-# FCC TECHNICAL-DOCUMENTATION-PAGE
+# FCC TECHNICAL DOCUMENTATION PAGE
 
-A baisc HTML and CSS element to demostrate styling.
+A technical documentation webpage using semantic html and advance styling.
 
 ![screenshot](./docs-fcc-technical-documentation.netlify.app_.png)
 
-Additional description about the project and its features.
+# This PR adds a technical documentation webpage using semantic html and advance styling. 
 
 ## Built With
 
 - HTML5 elements
-  - `header`,
-  - `nav`, `ul`, `li`, `a`,
-  - `main`, `section`, `p`, `article`, `code`.
+  - semantic html such as `header`, `article`.
 - CSS properties
   - CSS Variables for reusable CSS values,
   - CSS Media Query for page responsiveness using `@media` rule,
   - CSS Positioning `absolute`,
   - CSS Background for page aesthetic using `background-color`.
-  - `header`, `h1`, `h2`,
-  - `img`, `p`, `a`, `nav`.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
@@ -76,7 +72,6 @@ yarn hint
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
