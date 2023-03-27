@@ -4,8 +4,6 @@ A technical documentation webpage using semantic html and advance styling.
 
 ![screenshot](./docs-fcc-technical-documentation.netlify.app_.png)
 
-# This PR adds a technical documentation webpage using semantic html and advance styling.
-
 ## Built With
 
 - HTML5 elements
